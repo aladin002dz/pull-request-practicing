@@ -3,6 +3,7 @@ This is a repo to practice pull request, and contributing to projects, on Github
 You have just to fork this repo to add your name, and maybe link to your GitHub account.
 
 * Mahfoudh Arous [@aladin002dz](https://github.com/aladin002dz)
+* BARAKA LARBI [@larbibaraka](https://github.com/larbibaraka)
 
 <!--
 you can use this template:
